@@ -5,4 +5,4 @@ The Spherical is an organization which always makes a repository when a new idea
 
 # Our Repos
 
-We love to make repositories when we get a request or an idea. Our favourites are 'WLTMF'. Please take a look at those if you wish. 😊 Thank you!
+We love to make repositories when we get a request or an idea. Our favourites are '**~~WLTMF~~**', '**CubePlay**'. Please take a look at those if you wish. 😊 Thank you!
